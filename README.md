@@ -1,7 +1,7 @@
 # mlpack-TensorFlow Translator
 
 <div align="center">
-<img src="img/onnx-mlpack.png" height="100%" width="100%">
+<img src="img/onnx-mlpack.png" height="70%" width="70%">
 <p></p>
 </div>
 
